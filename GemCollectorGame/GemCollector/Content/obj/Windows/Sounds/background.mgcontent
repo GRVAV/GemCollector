@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>G:/college/sem3/game programming/Final Project/FinalRelease/git/GemCollector/GemCollectorGame/GemCollector/Content/Sounds/background.mp3</SourceFile>
+  <SourceTime>2023-04-08T17:17:44.2140347-04:00</SourceTime>
+  <DestFile>G:/college/sem3/game programming/Final Project/FinalRelease/git/GemCollector/GemCollectorGame/GemCollector/Content/bin/Windows/Sounds/background.xnb</DestFile>
+  <DestTime>2023-06-12T16:13:55.7427148-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>G:/college/sem3/game programming/Final Project/FinalRelease/git/GemCollector/GemCollectorGame/GemCollector/Content/bin/Windows/Sounds/background.wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

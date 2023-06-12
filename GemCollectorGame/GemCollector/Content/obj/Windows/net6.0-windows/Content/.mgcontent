@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Fonts/highLightedFont.spritefont</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Fonts/regularfont.spritefont</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Fonts/scoreCardFont.spritefont</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/blackscreen.jfif</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/diamond.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/gameMaster.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/helpScene.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/maingameBg.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/menubg2.jpg</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/walkingDown.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/walkingLeft.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/walkingRight.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/walkingUp.png</File>
+    <File>G:/college/gourav/game programming/Final Project/GADJFinalProject/GADJFinalProject/GemCollector/Content/Images/wheel.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
